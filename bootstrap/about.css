@@ -1,0 +1,22 @@
+.fon{
+	padding-top: 200px;
+	padding-bottom: 200px;
+	background-image: url(../photo/fondabout.jpg);
+}
+.titre{
+	font-size: 90px;
+	font-family: Bodoni MT Black;
+	color: white;
+}
+.Welcome{
+	font-size: 50px;
+	font-family: Bodoni MT Black;
+}
+.footer{
+	background-image: url(../photo/foot.jpg);
+}
+.fot{
+	padding-top: 200px;
+	text-align: center;
+	color: white;
+}
